@@ -14,6 +14,13 @@ func main() {
 
 	myInteger := 1
 	fmt.Println(myInteger)
+
+	thisisValid := "This is a valid string variable"
+	// 234NotValid := "This is not a valid string variable"
+	// Not_Valid = "not a valid string"
+	// _notvalid = "also not valid"
+
+	fmt.Println(thisisValid)
 }
 
 /*
